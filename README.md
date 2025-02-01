@@ -9,3 +9,4 @@ imports from Monkey Mailchimp. This then returns NetIDs.csv,
 which csv_filter.py has comments on what to do with it.
 
 NameEmails.py is where one inputs the new name emails, and gives the final product.
+Also this is still a work in progress, so do feel free to let me know if you have any critique!
