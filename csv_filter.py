@@ -15,7 +15,7 @@ for email in Emails:
 NetIDs = pd.DataFrame(NetID_Emails, columns=["NetID"])
 NetIDs.to_csv('NetID.csv', index=False)
 
-# You now have NetID.csv in your downloads (or here) if you declined that.
+# You now have NetID.csv here
 # Now go to https://idm.oit.duke.edu/tools/ldap (will need to log in)
 # Under 'select desired attributes' select 'Email Address (mail)'
 # Import NetID.csv under "Choose File to Upload"
